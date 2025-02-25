@@ -52,9 +52,3 @@ The dataset consists of structured CSV files containing:
 - Noted a higher proportion of subscribers compared to customers.
 - Found seasonal variations in bike usage.
 
-## Contribution
-Feel free to contribute by submitting issues or pull requests.
-
-## License
-This project is licensed under the MIT License.
-
